@@ -7,8 +7,8 @@ Steps:
 
 *   Breve analisi descrittiva dei dati
 *   Comparazione tra gruppi(stats inferenziale)
-*   Creazione di modelli di regressione lineare multipla
-    *   Analisi residui
+*   Creazione di modelli di regressione lineare 
+    *   Modelli regressione lineare semplice e multipla
     *   Considerare effetti interazione/non lineari
     *   Diagnostica residui
     *   Rappresentazione grafica modello migliore
