@@ -2,7 +2,7 @@ Per questo studio medico si analizzano i dati raccolti da 3 ospedali, riguardant
 
 In particolare si sono rilevate le seguenti variabili:
 
-    età
+    età della madre
     numero di gravidanze sostenute
     Madre fumatrice (0=NO, SI=1)
     N° di settimane di gestazione
